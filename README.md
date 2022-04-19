@@ -1,6 +1,4 @@
 # answers-to-questions
-![image](https://user-images.githubusercontent.com/103579161/164028223-5e7bcebe-0907-42b0-a00e-65e9cde86993.png)
-Answers
 1.	The box model in CSS is a box that wraps around every HTML element. The properties that are a part of the model are the Margins, Padding, Border and The Actual Content.
 2.	The advantages of CSS include;
 •	keeping the layout of a webpage is better controlled
